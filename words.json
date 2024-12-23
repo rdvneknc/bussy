@@ -1,0 +1,4002 @@
+[
+    {
+        "english": "abandon",
+        "turkish": "terk etmek"
+    },
+    {
+        "english": "abstract",
+        "turkish": "soyut"
+    },
+    {
+        "english": "accelerate",
+        "turkish": "hızlandırmak"
+    },
+    {
+        "english": "accurate",
+        "turkish": "doğru, kesin"
+    },
+    {
+        "english": "adapt",
+        "turkish": "uyum sağlamak"
+    },
+    {
+        "english": "adequate",
+        "turkish": "yeterli"
+    },
+    {
+        "english": "ambiguous",
+        "turkish": "belirsiz"
+    },
+    {
+        "english": "analysis",
+        "turkish": "analiz, inceleme"
+    },
+    {
+        "english": "anticipate",
+        "turkish": "beklemek, ummak"
+    },
+    {
+        "english": "appreciate",
+        "turkish": "takdir etmek, anlamak"
+    },
+    {
+        "english": "approach",
+        "turkish": "yaklaşmak, yöntem"
+    },
+    {
+        "english": "arise",
+        "turkish": "ortaya çıkmak, yükselmek"
+    },
+    {
+        "english": "artificial",
+        "turkish": "yapay"
+    },
+    {
+        "english": "assume",
+        "turkish": "varsaymak, üstlenmek"
+    },
+    {
+        "english": "attempt",
+        "turkish": "teşebbüs etmek, denemek"
+    },
+    {
+        "english": "attitude",
+        "turkish": "tutum, davranış"
+    },
+    {
+        "english": "beneficial",
+        "turkish": "yararlı"
+    },
+    {
+        "english": "circumstance",
+        "turkish": "durum, koşul"
+    },
+    {
+        "english": "coherent",
+        "turkish": "tutarlı, uyumlu"
+    },
+    {
+        "english": "comprehensive",
+        "turkish": "kapsamlı, etraflı"
+    },
+    {
+        "english": "conclude",
+        "turkish": "sonuçlandırmak, bitirmek"
+    },
+    {
+        "english": "consistent",
+        "turkish": "tutarlı, istikrarlı"
+    },
+    {
+        "english": "constraint",
+        "turkish": "kısıtlama, zorlama"
+    },
+    {
+        "english": "controversy",
+        "turkish": "tartışma, anlaşmazlık"
+    },
+    {
+        "english": "convenient",
+        "turkish": "uygun, elverişli"
+    },
+    {
+        "english": "correlation",
+        "turkish": "ilişki, bağdaşıklık"
+    },
+    {
+        "english": "credible",
+        "turkish": "güvenilir"
+    },
+    {
+        "english": "criteria",
+        "turkish": "kriterler, ölçütler"
+    },
+    {
+        "english": "deficit",
+        "turkish": "açık, eksiklik"
+    },
+    {
+        "english": "deliberate",
+        "turkish": "kasıtlı, planlı"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "elaborate",
+        "turkish": "detaylandırmak, ayrıntılı"
+    },
+    {
+        "english": "emphasize",
+        "turkish": "vurgulamak"
+    },
+    {
+        "english": "equivalent",
+        "turkish": "eşit, denk"
+    },
+    {
+        "english": "evaluate",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "expand",
+        "turkish": "genişletmek, büyütmek"
+    },
+    {
+        "english": "explicit",
+        "turkish": "açık, belirgin"
+    },
+    {
+        "english": "generate",
+        "turkish": "üretmek, oluşturmak"
+    },
+    {
+        "english": "hypothesis",
+        "turkish": "hipotez"
+    },
+    {
+        "english": "implementation",
+        "turkish": "uygulama, hayata geçirme"
+    },
+    {
+        "english": "indicate",
+        "turkish": "göstermek, belirtmek"
+    },
+    {
+        "english": "interpret",
+        "turkish": "yorumlamak, tercüme etmek"
+    },
+    {
+        "english": "maintain",
+        "turkish": "sürdürmek, korumak"
+    },
+    {
+        "english": "obtain",
+        "turkish": "elde etmek"
+    },
+    {
+        "english": "perceive",
+        "turkish": "algılamak, hissetmek"
+    },
+    {
+        "english": "policy",
+        "turkish": "politika, ilke"
+    },
+    {
+        "english": "predict",
+        "turkish": "tahmin etmek, öngörmek"
+    },
+    {
+        "english": "priority",
+        "turkish": "öncelik"
+    },
+    {
+        "english": "prohibit",
+        "turkish": "yasaklamak"
+    },
+    {
+        "english": "reliable",
+        "turkish": "güvenilir"
+    },
+    {
+        "english": "requirement",
+        "turkish": "gereklilik, ihtiyaç"
+    },
+    {
+        "english": "significant",
+        "turkish": "önemli, kayda değer"
+    },
+    {
+        "english": "specific",
+        "turkish": "belirli, özgül"
+    },
+    {
+        "english": "subsequent",
+        "turkish": "sonraki, müteakip"
+    },
+    {
+        "english": "substitute",
+        "turkish": "yerine geçmek, yedek"
+    },
+    {
+        "english": "sufficient",
+        "turkish": "yeterli, kâfi"
+    },
+    {
+        "english": "sustain",
+        "turkish": "sürdürmek, devam ettirmek"
+    },
+    {
+        "english": "temporary",
+        "turkish": "geçici"
+    },
+    {
+        "english": "valid",
+        "turkish": "geçerli, mantıklı"
+    },
+    {
+        "english": "variation",
+        "turkish": "değişiklik, çeşitlilik"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "assess",
+        "turkish": "değerlendirmek"
+    },
+    {
+        "english": "allocate",
+        "turkish": "tahsis etmek"
+    },
+    {
+        "english": "collaborate",
+        "turkish": "iş birliği yapmak"
+    },
+    {
+        "english": "delegate",
+        "turkish": "yetkilendirmek"
+    },
+    {
+        "english": "innovative",
+        "turkish": "yenilikçi"
+    },
+    {
+        "english": "mediate",
+        "turkish": "aracılık etmek"
+    },
+    {
+        "english": "compliance",
+        "turkish": "uyum, itaat"
+    },
+    {
+        "english": "bias",
+        "turkish": "önyargı"
+    },
+    {
+        "english": "diverse",
+        "turkish": "çeşitli, farklı"
+    },
+    {
+        "english": "legitimate",
+        "turkish": "meşru, yasal"
+    }
+]

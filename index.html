@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Büşsy - YDS/YÖKDİL Kelime Kartları</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-heart"></i> Büşsy <i class="fas fa-heart"></i></h1>
+            <p>YDS/YÖKDİL Kelime Pratiği</p>
+        </header>
+
+        <div class="stats">
+            <div class="stat-item">
+                <span id="totalWords">0</span>
+                <label>Toplam Kelime</label>
+            </div>
+            <div class="stat-item">
+                <span id="correctWords">0</span>
+                <label>Doğru Bilinen</label>
+            </div>
+        </div>
+
+        <div class="card-container">
+            <div class="card">
+                <div class="card-inner">
+                    <div class="card-front">
+                        <p id="englishWord">Kelime</p>
+                        <div class="card-icon">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                    </div>
+                    <div class="card-back">
+                        <p id="turkishWord">Anlam</p>
+                        <div class="card-icon">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <button id="nextWord" class="btn-primary">
+                <i class="fas fa-forward"></i> Sonraki Kelime
+            </button>
+            <button id="addFavorite" class="btn-heart">
+                <i class="fas fa-heart"></i> Favorilere Ekle
+            </button>
+            <button id="showFavorites" class="btn-secondary">
+                <i class="fas fa-list"></i> Favorileri Göster
+            </button>
+            <button id="resetStats" class="btn-danger">
+                <i class="fas fa-redo"></i> Sıfırla
+            </button>
+        </div>
+
+        <div id="favoritesList" class="favorites-list hidden">
+            <h2><i class="fas fa-heart"></i> Favori Kelimeler</h2>
+            <ul id="favorites"></ul>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html> 
